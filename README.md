@@ -1,1 +1,2 @@
 # FIBONACCI
+Ce code C++ calcule le n-ième terme de la suite de Fibonacci en fonction d'un indice donné par l'utilisateur. Il demande d'abord un nombre entier positif ; si l'entrée est négative, il redemande une valeur. Pour les indices 0 et 1, il renvoie directement les valeurs correspondantes de la suite. Pour les indices supérieurs ou égaux à 2, il utilise une boucle pour calculer le terme en mettant à jour trois variables représentant les derniers termes de la suite. Enfin, il affiche le résultat.
